@@ -15,19 +15,19 @@ Action:
 4. Restart (r)
 5. Quit (q)
 
-GameObject:
-@: Player
-G: Treasure
-P: Potion
-C: Compass
-\\: Stairs
-.: Tile
-B: BarrierSuit
-#: Passage
-+: Door
-|: Vertical Wall
--: Horizontal Wall
-W/V/N/M/D/X/T: Enemies
+GameObject: <br/>
+@: Player <br/>
+G: Treasure <br/>
+P: Potion  <br/>
+C: Compass <br/>
+\\: Stairs <br/>
+.: Tile <br/>
+B: BarrierSuit <br/>
+#: Passage <br/>
++: Door <br/>
+|: Vertical Wall <br/>
+-: Horizontal Wall <br/>
+W/V/N/M/D/X/T: Enemies <br/>
 
 https://github.com/OHNOalan/ChamberCrawler3000-/assets/61731220/1ab50a22-e1f0-4a5d-adde-b8ba8eaac7c5
 
